@@ -42,6 +42,15 @@ You can now access the application at http://localhost:8000.
 
 The interactive API documentation is available at http://localhost:8000/docs.
 
+## Screen Shots
+
+ 1. Health EndPoint:
+![FastApi_EndPoint_health](https://github.com/Abhaygaur007-007/Simple_FastAPI_Web_App/assets/83288780/99896956-bc6a-4d31-9697-67125a68ef49)
+
+2. Maximum EndPoint:
+
+   ![FastApi_EndPoint_maximum](https://github.com/Abhaygaur007-007/Simple_FastAPI_Web_App/assets/83288780/fc03ef79-0432-4a51-961d-1ae27e6bce50)
+
 ## Contact
 
 - Author: Abhay Gaur
