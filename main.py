@@ -26,7 +26,7 @@ def maximum(numbers: List[int]):
     
     if not numbers:     # checks if numbers evaluates to False, which happens when it is an empty list.
 
-        return {"error": "No numbers provided"}  # returns a JSON response with an error message
+        return {"error": "Please Enter a Integer"}  # returns a JSON response with an error message
     
     
 
