@@ -21,3 +21,27 @@ This is a simple web application built with FastAPI in Python 3.11.4 It features
 3. Set up a Python virtual environment:
    ```bash
    python -m venv fastapi-env
+
+### Activate the virtual environment:
+
+1. On Windows:
+   ```bash
+   fastapi-env\Scripts\activate
+
+2. Install the necessary dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+## Running the Application
+
+1. Run the application using Uvicorn:
+   ```bash
+   uvicorn main:app --reload
+
+You can now access the application at http://localhost:8000.
+
+The interactive API documentation is available at http://localhost:8000/docs.
+
+## Contact
+
+- Author: Abhay Gaur
